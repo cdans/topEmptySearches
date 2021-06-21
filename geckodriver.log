@@ -83,3 +83,59 @@ TimedPromise/<@chrome://marionette/content/sync.js:245:13
 TimedPromise@chrome://marionette/content/sync.js:230:10
 interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
 webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1606317398540	geckodriver	INFO	Listening on 127.0.0.1:59779
+1606317399568	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez6rZo7"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1606317412257	Marionette	INFO	Listening on port 36099
+1606317412344	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flaschenpost.de/js/fp.bundle.min.js?v=9dQs0stDM8N3Sy8t6UW-1hjfS_AHi0m35vA93aXNzlk, line 1: ReferenceError: dayjs is not defined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+1606318348868	geckodriver	INFO	Listening on 127.0.0.1:52457
+1606318349883	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilek5zBMc"
+Starting X
+.....5.. 4.. 3.. 2.. 1.. console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1606318370133	Marionette	INFO	Listening on port 42059
+1606318370243	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flaschenpost.de/js/fp.bundle.min.js?v=9dQs0stDM8N3Sy8t6UW-1hjfS_AHi0m35vA93aXNzlk, line 1: ReferenceError: dayjs is not defined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+1606318629215	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1606318834149	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1606318964040	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1606321713507	geckodriver	INFO	Listening on 127.0.0.1:51335
+1624292584702	geckodriver	INFO	Listening on 127.0.0.1:60577
+1624292585675	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJFJY02"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1624292591044	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624292601416	Marionette	INFO	Listening on port 35867
+1624292601796	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624292685654	geckodriver	INFO	Listening on 127.0.0.1:33955
+1624292686648	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTKAxaH"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1624292688766	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624292698491	Marionette	INFO	Listening on port 37397
+1624292698750	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624292712903	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
